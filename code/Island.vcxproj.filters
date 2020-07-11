@@ -1,0 +1,378 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\light">
+      <UniqueIdentifier>{7485ec10-b965-42fa-bf6a-224c251492f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\input">
+      <UniqueIdentifier>{14ee1400-a859-4ea0-a36b-d085569f1475}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\camera">
+      <UniqueIdentifier>{2fd6ed8b-a798-45c0-929a-39aa4aa37a42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\shader">
+      <UniqueIdentifier>{5a883693-dd90-445a-99b5-1dd71f0a1f38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\sound">
+      <UniqueIdentifier>{a43a9f99-6058-4e6c-94ac-a9c92005412e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\texture">
+      <UniqueIdentifier>{884f0542-aab4-40c6-8c43-0783d614b589}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\game_object">
+      <UniqueIdentifier>{477b6975-b354-4aed-ae98-affe60c51ea2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\light">
+      <UniqueIdentifier>{c7098613-f00c-440d-bc42-2e2f9c801f42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\camera">
+      <UniqueIdentifier>{52a2bf68-6599-4946-8382-42584b783f15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\texture">
+      <UniqueIdentifier>{82eb6a61-564c-4af8-9a01-153cae5f2287}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\shader">
+      <UniqueIdentifier>{599c0499-1143-404d-a33c-af713e89856f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\input">
+      <UniqueIdentifier>{974c2c58-f14f-4000-a5a1-0db73e786b41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\sound">
+      <UniqueIdentifier>{789032a0-4798-44cc-a6aa-92002a8cdb5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\game_object">
+      <UniqueIdentifier>{917c0193-d2cf-4027-a896-6a0c7e31af3c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\components">
+      <UniqueIdentifier>{eb43833e-e272-4a5a-87cb-5289041546e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\components">
+      <UniqueIdentifier>{15b57936-6b79-4539-8724-f0af58bf355a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\mode">
+      <UniqueIdentifier>{f15ae6ff-616c-465a-9122-25dc99c6c484}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\mode">
+      <UniqueIdentifier>{4d9f5642-7bb4-428d-b0d5-f65b4eedd812}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\render">
+      <UniqueIdentifier>{3f0bb378-214b-4726-b454-3bacc4a43fda}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\render">
+      <UniqueIdentifier>{2c754bbc-2c60-4686-b057-414d9574dfc0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\collider">
+      <UniqueIdentifier>{b261df2d-0000-405b-917d-e4362508f2b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\collider">
+      <UniqueIdentifier>{a76c58d2-4d58-40e1-845c-d138d4cc2e24}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\IMGUI">
+      <UniqueIdentifier>{923bb6d4-e46e-4f12-a4ff-59af902b0181}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\IMGUI">
+      <UniqueIdentifier>{4a4de7b9-eb57-483c-a202-ee71e03bd96c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\components\behavior">
+      <UniqueIdentifier>{57a9ca17-8afe-41bc-8346-0ebf0f3838be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\components\behavior">
+      <UniqueIdentifier>{a60cad35-52ce-4c2d-adad-49802065e6ed}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="game_system.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="material_manager.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="mesh_manager.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="physics_system.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="camera.cpp">
+      <Filter>ソース ファイル\camera</Filter>
+    </ClCompile>
+    <ClCompile Include="camera_manager.cpp">
+      <Filter>ソース ファイル\camera</Filter>
+    </ClCompile>
+    <ClCompile Include="input_system.cpp">
+      <Filter>ソース ファイル\input</Filter>
+    </ClCompile>
+    <ClCompile Include="light.cpp">
+      <Filter>ソース ファイル\light</Filter>
+    </ClCompile>
+    <ClCompile Include="light_manager.cpp">
+      <Filter>ソース ファイル\light</Filter>
+    </ClCompile>
+    <ClCompile Include="shader.cpp">
+      <Filter>ソース ファイル\shader</Filter>
+    </ClCompile>
+    <ClCompile Include="shader_default.cpp">
+      <Filter>ソース ファイル\shader</Filter>
+    </ClCompile>
+    <ClCompile Include="shader_manager.cpp">
+      <Filter>ソース ファイル\shader</Filter>
+    </ClCompile>
+    <ClCompile Include="texture_manager.cpp">
+      <Filter>ソース ファイル\texture</Filter>
+    </ClCompile>
+    <ClCompile Include="sound_system.cpp">
+      <Filter>ソース ファイル\sound</Filter>
+    </ClCompile>
+    <ClCompile Include="gameobject.cpp">
+      <Filter>ソース ファイル\game_object</Filter>
+    </ClCompile>
+    <ClCompile Include="gameobject_manager.cpp">
+      <Filter>ソース ファイル\game_object</Filter>
+    </ClCompile>
+    <ClCompile Include="component.cpp">
+      <Filter>ソース ファイル\components</Filter>
+    </ClCompile>
+    <ClCompile Include="rigidbody.cpp">
+      <Filter>ソース ファイル\components</Filter>
+    </ClCompile>
+    <ClCompile Include="transform.cpp">
+      <Filter>ソース ファイル\components</Filter>
+    </ClCompile>
+    <ClCompile Include="timer.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="mode.cpp">
+      <Filter>ソース ファイル\mode</Filter>
+    </ClCompile>
+    <ClCompile Include="mode_title.cpp">
+      <Filter>ソース ファイル\mode</Filter>
+    </ClCompile>
+    <ClCompile Include="mode_editor.cpp">
+      <Filter>ソース ファイル\mode</Filter>
+    </ClCompile>
+    <ClCompile Include="mode_result.cpp">
+      <Filter>ソース ファイル\mode</Filter>
+    </ClCompile>
+    <ClCompile Include="fade.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="renderer.cpp">
+      <Filter>ソース ファイル\render</Filter>
+    </ClCompile>
+    <ClCompile Include="render_system.cpp">
+      <Filter>ソース ファイル\render</Filter>
+    </ClCompile>
+    <ClCompile Include="render3D.cpp">
+      <Filter>ソース ファイル\render</Filter>
+    </ClCompile>
+    <ClCompile Include="render2D.cpp">
+      <Filter>ソース ファイル\render</Filter>
+    </ClCompile>
+    <ClCompile Include="game_object_factory.cpp">
+      <Filter>ソース ファイル\game_object</Filter>
+    </ClCompile>
+    <ClCompile Include="collision_system.cpp">
+      <Filter>ソース ファイル\collider</Filter>
+    </ClCompile>
+    <ClCompile Include="collider.cpp">
+      <Filter>ソース ファイル\collider</Filter>
+    </ClCompile>
+    <ClCompile Include="collider_sphere.cpp">
+      <Filter>ソース ファイル\collider</Filter>
+    </ClCompile>
+    <ClCompile Include="collider_field.cpp">
+      <Filter>ソース ファイル\collider</Filter>
+    </ClCompile>
+    <ClCompile Include="library\ImGui\imgui.cpp">
+      <Filter>ソース ファイル\IMGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="library\ImGui\imgui_demo.cpp">
+      <Filter>ソース ファイル\IMGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="library\ImGui\imgui_draw.cpp">
+      <Filter>ソース ファイル\IMGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="library\ImGui\imgui_impl_dx9.cpp">
+      <Filter>ソース ファイル\IMGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="camera_edit.cpp">
+      <Filter>ソース ファイル\camera</Filter>
+    </ClCompile>
+    <ClCompile Include="behavior_model_edit.cpp">
+      <Filter>ソース ファイル\components\behavior</Filter>
+    </ClCompile>
+    <ClCompile Include="behavior.cpp">
+      <Filter>ソース ファイル\components\behavior</Filter>
+    </ClCompile>
+    <ClCompile Include="behavior_edit.cpp">
+      <Filter>ソース ファイル\components\behavior</Filter>
+    </ClCompile>
+    <ClCompile Include="behavior_field_edit.cpp">
+      <Filter>ソース ファイル\components\behavior</Filter>
+    </ClCompile>
+    <ClCompile Include="shader_2d.cpp">
+      <Filter>ソース ファイル\shader</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="game_system.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="material_manager.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="mesh_manager.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="physics_system.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="light.h">
+      <Filter>ヘッダー ファイル\light</Filter>
+    </ClInclude>
+    <ClInclude Include="light_manager.h">
+      <Filter>ヘッダー ファイル\light</Filter>
+    </ClInclude>
+    <ClInclude Include="input_system.h">
+      <Filter>ヘッダー ファイル\input</Filter>
+    </ClInclude>
+    <ClInclude Include="camera.h">
+      <Filter>ヘッダー ファイル\camera</Filter>
+    </ClInclude>
+    <ClInclude Include="camera_manager.h">
+      <Filter>ヘッダー ファイル\camera</Filter>
+    </ClInclude>
+    <ClInclude Include="shader.h">
+      <Filter>ヘッダー ファイル\shader</Filter>
+    </ClInclude>
+    <ClInclude Include="shader_default.h">
+      <Filter>ヘッダー ファイル\shader</Filter>
+    </ClInclude>
+    <ClInclude Include="shader_manager.h">
+      <Filter>ヘッダー ファイル\shader</Filter>
+    </ClInclude>
+    <ClInclude Include="sound_system.h">
+      <Filter>ヘッダー ファイル\sound</Filter>
+    </ClInclude>
+    <ClInclude Include="texture_manager.h">
+      <Filter>ヘッダー ファイル\texture</Filter>
+    </ClInclude>
+    <ClInclude Include="gameobject.h">
+      <Filter>ヘッダー ファイル\game_object</Filter>
+    </ClInclude>
+    <ClInclude Include="gameobject_manager.h">
+      <Filter>ヘッダー ファイル\game_object</Filter>
+    </ClInclude>
+    <ClInclude Include="rigidbody.h">
+      <Filter>ヘッダー ファイル\components</Filter>
+    </ClInclude>
+    <ClInclude Include="transform.h">
+      <Filter>ヘッダー ファイル\components</Filter>
+    </ClInclude>
+    <ClInclude Include="component.h">
+      <Filter>ヘッダー ファイル\components</Filter>
+    </ClInclude>
+    <ClInclude Include="timer.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="mode.h">
+      <Filter>ヘッダー ファイル\mode</Filter>
+    </ClInclude>
+    <ClInclude Include="mode_title.h">
+      <Filter>ヘッダー ファイル\mode</Filter>
+    </ClInclude>
+    <ClInclude Include="mode_editor.h">
+      <Filter>ヘッダー ファイル\mode</Filter>
+    </ClInclude>
+    <ClInclude Include="mode_result.h">
+      <Filter>ヘッダー ファイル\mode</Filter>
+    </ClInclude>
+    <ClInclude Include="fade.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="render3D.h">
+      <Filter>ヘッダー ファイル\render</Filter>
+    </ClInclude>
+    <ClInclude Include="render_system.h">
+      <Filter>ヘッダー ファイル\render</Filter>
+    </ClInclude>
+    <ClInclude Include="renderer.h">
+      <Filter>ヘッダー ファイル\render</Filter>
+    </ClInclude>
+    <ClInclude Include="render2D.h">
+      <Filter>ヘッダー ファイル\render</Filter>
+    </ClInclude>
+    <ClInclude Include="game_object_factory.h">
+      <Filter>ヘッダー ファイル\game_object</Filter>
+    </ClInclude>
+    <ClInclude Include="collision_system.h">
+      <Filter>ヘッダー ファイル\collider</Filter>
+    </ClInclude>
+    <ClInclude Include="collider.h">
+      <Filter>ヘッダー ファイル\collider</Filter>
+    </ClInclude>
+    <ClInclude Include="collider_sphere.h">
+      <Filter>ヘッダー ファイル\collider</Filter>
+    </ClInclude>
+    <ClInclude Include="library\ImGui\imconfig.h">
+      <Filter>ヘッダー ファイル\IMGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="library\ImGui\imgui.h">
+      <Filter>ヘッダー ファイル\IMGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="library\ImGui\imgui_impl_dx9.h">
+      <Filter>ヘッダー ファイル\IMGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="library\ImGui\imgui_internal.h">
+      <Filter>ヘッダー ファイル\IMGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="library\ImGui\stb_rect_pack.h">
+      <Filter>ヘッダー ファイル\IMGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="library\ImGui\stb_textedit.h">
+      <Filter>ヘッダー ファイル\IMGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="library\ImGui\stb_truetype.h">
+      <Filter>ヘッダー ファイル\IMGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="collider_field.h">
+      <Filter>ヘッダー ファイル\collider</Filter>
+    </ClInclude>
+    <ClInclude Include="camera_edit.h">
+      <Filter>ヘッダー ファイル\camera</Filter>
+    </ClInclude>
+    <ClInclude Include="behavior.h">
+      <Filter>ヘッダー ファイル\components\behavior</Filter>
+    </ClInclude>
+    <ClInclude Include="behavior_edit.h">
+      <Filter>ヘッダー ファイル\components\behavior</Filter>
+    </ClInclude>
+    <ClInclude Include="behavior_field_edit.h">
+      <Filter>ヘッダー ファイル\components\behavior</Filter>
+    </ClInclude>
+    <ClInclude Include="behavior_model_edit.h">
+      <Filter>ヘッダー ファイル\components\behavior</Filter>
+    </ClInclude>
+    <ClInclude Include="shader_2d.h">
+      <Filter>ヘッダー ファイル\shader</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
